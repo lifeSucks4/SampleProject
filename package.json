@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lifeSucks4/SampleProject#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
     "papaparse": "^5.3.1"
   }
 }
